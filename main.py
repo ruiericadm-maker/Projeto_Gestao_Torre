@@ -1,8 +1,8 @@
-import pandas as pd
+import pandas as pd # type: ignore
 import random
 import string
 from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 
 # --- 1. CONFIGURAÇÕES ---
 num_caminhoes = 50

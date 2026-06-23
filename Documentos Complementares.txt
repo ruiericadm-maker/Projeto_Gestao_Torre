@@ -1,5 +1,0 @@
-## 📚 Documentação Complementar
-
-- [Relatório de Análise](./docs/relatorio_analise.md)
-- [Guia de Importação para SQL Server](./docs/passo_a_passo_importacao.md)
-- [Insights para Gestores](./docs/insights_negocio.md)
